@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Idoss1
 - 👀 I’m interested in Learning more code languges 
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning PY
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
